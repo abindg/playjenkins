@@ -16,7 +16,7 @@ spec:
         app: myweb
     spec:
       containers:
-      - image: 03082019/myweb:latest
+      - image: 03082019/myweb:1
         imagePullPolicy: Always
         name: myweb
 
